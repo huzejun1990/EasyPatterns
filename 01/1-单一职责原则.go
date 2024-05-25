@@ -14,7 +14,7 @@ func (cs *ClothesShop) Style() {
 }
 
 func (cs *ClothesWork) Style() {
-	fmt.Println("逛街的装扮")
+	fmt.Println("工作的装扮")
 }
 
 func main() {
